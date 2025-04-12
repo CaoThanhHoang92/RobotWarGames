@@ -1,12 +1,13 @@
 Robot War Game
 My Product:
-https://play.google.com/store/apps/details?id=com.cth.metalbox
-https://play.google.com/store/apps/details?id=com.cth.bugsmasherleg
-https://play.google.com/store/apps/details?id=com.insectkingdom.bugsmasher.bugsmash
-https://play.google.com/store/apps/details?id=com.bugsmasher.taptokill
-https://play.google.com/store/apps/details?id=com.tilesmatch.mahjong
-https://play.google.com/store/apps/details?id=com.pineline.pinelinepuzzle
-https://play.google.com/store/apps/details?id=com.cocoscoti.antsmash
+
+* https://play.google.com/store/apps/details?id=com.cth.metalbox
+* https://play.google.com/store/apps/details?id=com.cth.bugsmasherleg
+* https://play.google.com/store/apps/details?id=com.insectkingdom.bugsmasher.bugsmash
+* https://play.google.com/store/apps/details?id=com.bugsmasher.taptokill
+* https://play.google.com/store/apps/details?id=com.tilesmatch.mahjong
+* https://play.google.com/store/apps/details?id=com.pineline.pinelinepuzzle
+* https://play.google.com/store/apps/details?id=com.cocoscoti.antsmash
 
 Policy
 Robot War Games Studios, LLC (“Robot War Games”) has adopted this privacy policy (“Privacy Policy”) to explain how Robot War Games collects, stores, and uses the information collected in connection with Robot War Games's products, services, and websites (together “Services”).
